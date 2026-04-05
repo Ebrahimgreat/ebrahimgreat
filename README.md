@@ -1,16 +1,21 @@
-## Hi there 👋
+Ebrahim Shahid Arshad
+Backend & Full-Stack Developer · Elixir/Phoenix LiveView · Lahore, Pakistan 🇵🇰
+I build and ship real products. Currently co-founding Perovscope: a solar procurement platform connecting buyers and suppliers in Pakistan and running Scope Strength: a personal trainer SaaS I built and deployed solo.
+Open to remote backend/full-stack roles.
 
-<!--
-**Ebrahimgreat/ebrahimgreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Products
+Scope Strength — Personal trainer SaaS · Live in production
+Built solo end-to-end: real-time server-rendered UI with Phoenix LiveView over persistent WebSockets, role-based auth with separate trainer/client portals enforced via Phoenix Plugs, deployed on Hetzner VPS with nginx + systemd.
+Perovscope — Solar procurement platform · Co-founder & Backend Developer
+Designed the full backend: supplier data models, multi-role auth, RFP/proposal workflow, and order lifecycle tracking. Built on Next.js API routes, Supabase, and PostgreSQL.
 
-Here are some ideas to get you started:
+🛠 Stack
+Primary:  .Elixir · Phoenix .LiveView · PostgreSQL
+Backend:  .Node.js · Laravel · Go
+Frontend: .Next.js · SolidJS · Vue/Nuxt
+Mobile:   .Flutter .React Native
+ML:       .Python · scikit-learn · CatBoost .
+Infra:    .Hetzner .VPS · nginx · Docker · systemd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Contact
+linkedin.com/in/ebrahimarshad · ebrahimgreat@gmail.com
